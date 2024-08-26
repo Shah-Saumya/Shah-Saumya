@@ -18,7 +18,7 @@ A dedicated backend developer from India, eager to expand my skills and transiti
 ## Contact Me
 
 - Email: [saumyashah609@gmail.com](mailto:saumyashah609@gmail.com)
-- LinkedIn: [Saumya Shah](https://www.linkedin.com/in/saumya-shah-42353026)
+- LinkedIn: [Saumya Shah](https://www.linkedin.com/in/saumyashah1729)
 - Instagram: [Saumya Shah](https://www.instagram.com/saumya__13_)
 
 ## Contributions
