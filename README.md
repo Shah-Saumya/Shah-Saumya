@@ -13,7 +13,7 @@ A dedicated backend developer from India, eager to expand my skills and transiti
 - Deno Runtime
 - Deno KV Database
 - Deno Lume
-- Open Feature Flags
+- OpenFeature
 
 ## Contact Me
 
