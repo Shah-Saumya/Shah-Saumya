@@ -10,9 +10,8 @@ A dedicated backend developer from India, eager to expand my skills and transiti
 ## Technologies
 
 - GraphQL
-- Deno Runtime
-- Deno KV Database
-- Deno Lume
+- Deno Ecosystem
+- LangChain/LangGraph
 - OpenFeature
 
 ## Contact Me
