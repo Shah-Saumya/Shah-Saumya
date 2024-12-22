@@ -28,6 +28,10 @@
 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-Saumya&hide=prs&show=&show_icons=true&theme=onedark)
 
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Saumya&layout=donut&theme=onedark)
+
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/saumyashah1729)
