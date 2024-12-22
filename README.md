@@ -20,13 +20,13 @@
 - GraphQL
 - OpenFeature
 
-## GitHub Stats
-
-![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-Saumya&hide=prs&show=&show_icons=true&theme=onedark)
-
 ### Ecosystems & Frameworks
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 - LangChain/LangGraph
+
+## GitHub Stats
+
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-Saumya&hide=prs&show=&show_icons=true&theme=onedark)
 
 ## Contact Me
 
